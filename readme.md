@@ -79,7 +79,7 @@
 
 
 ## Devlog
-- `November 27, 2023`: Modify readme, push from host
+- `November 27, 2023`: Modify readme. Push from host.
 - `Month DD, YYYY`
    - Lorem
    	- [ ] Ipsum
